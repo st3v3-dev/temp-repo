@@ -1,0 +1,172 @@
+/**
+ * Admin CSS file
+ */
+
+.wd_ads_check_label {
+    display: inline-block !important;
+}
+
+.manage_groups_fields input[type='text'] {
+
+    width: 60px;
+
+}
+
+.wd_ads_posts {
+    max-height: 300px;
+    width: 300px;
+    min-height: 250px;
+
+}
+
+.wd_ads_tags {
+    color: #0073aa;
+    cursor: pointer;
+}
+
+.wd_ads_schedule_end {
+    color: red;
+
+}
+
+.wd_ads_schedule_start {
+    color: green;
+
+}
+
+.wd_ads_stats_nav {
+    text-align: center;
+
+}
+
+.wd_ads_table_div {
+    display: table-cell;
+    padding: 10px;
+    text-align: center;
+    width: 1%;
+}
+
+.wd_ads_stats_div {
+    background-color: #fff;
+    margin-top: 10px;
+
+}
+
+.wd_ads_stats_click_impress {
+    font-size: 15px;
+
+}
+
+.wd_ads_countries {
+    height: 300px;
+    overflow-y: scroll;
+}
+
+.wd_ads_hidden {
+    display: none !important;
+}
+
+.wd_ads_td {
+    display: table-cell;
+    padding: 3px;
+    text-align: center;
+
+}
+
+.wd_ads_warning {
+    color: red;
+    font-weight: bold;
+}
+
+.wd_ads_success {
+    color: green;
+    font-weight: bold;
+}
+
+.wd_ads_for_pro_only {
+    font-size: 12px;
+    background-color: #861a4d;
+    padding: 3px;
+    color: white;
+    border-radius: 9px;
+}
+
+.wd_ads_for_pro_only_div
+{
+    text-align: center;
+    padding: 13px 0px;
+}
+
+.wd_ads_for_pro_only_section {
+    font-size: 16px;
+    background-color: #861a4d;
+    padding: 4px 18px;
+    color: white;
+    border-radius: 19px;
+
+}
+
+.wd_ads_upgrade{
+    clear: both;
+    padding: 15px;
+    background: #fff;
+    margin: 6px 15px;
+    color: #6e7990;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+.wd_ads_upgrade .wd-cell:first-child{
+    padding-right: 14px;
+}
+.wd_ads_upgrade .wd-cell:first-child img{
+    vertical-align:middle;
+}
+.wd_ads_upgrade .wd-cell:first-child a{
+    color: #72777c !important;
+}
+.wd_ads_upgrade .wd-cell:last-child{
+    background: #45A6B7;
+}
+.wd_ads_upgrade .wd-cell:last-child a{
+    color: #fff !important;
+    padding: 18px;
+}
+
+.wd_ads_upgrade a, .wd_ads_upgrade a:hover {
+    text-decoration: none !important;
+}
+
+.wd_ads-clear:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.wd-table{
+    display:table;
+}
+
+.wd-cell{
+    display:table-cell;
+}
+
+
+.wd_ads-cell {
+    display: table-cell;
+}
+
+.wd_ads-right {
+    float: right;
+
+}
+
+.wd_ads-left {
+    float: left;
+}
+
+.wd_ads-clear {
+    clear: both;
+    padding-bottom: 15px;
+}

@@ -1,0 +1,15 @@
+/**
+ * Front End CSS file
+ */
+
+.wd_ads_row
+{
+	display:table-row;
+}
+
+.wd_ads_col
+{
+	display:table-cell;
+	vertical-align:top;
+}
+
